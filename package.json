@@ -1,3 +1,4 @@
+
 {
   "name": "be-nc-news",
   "version": "1.0.0",
@@ -13,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/northcoders/be-nc-news.git"
+    "url": "git+https://github.com/recorder478014/backend-news-project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/northcoders/be-nc-news/issues"
+    "url": "https://github.com/recorder478014/backend-news-project/issues"
   },
-  "homepage": "https://github.com/northcoders/be-nc-news#readme",
+  "homepage": "https://github.com/recorder478014/backend-news-project#readme",
   "devDependencies": {
     "husky": "^8.0.0",
     "jest": "^27.5.1",
