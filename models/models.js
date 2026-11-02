@@ -64,7 +64,7 @@ exports.selectArticles = (articleQuery) => {
     } else {
         WHERE = ``
     }
-    if (articleQuery.order === 'desc') {
+    if (articleQuery.order) {
         order = `${articleQuery.order}`
     } else {
         order = `DESC`
